@@ -1,0 +1,94 @@
+Midterm Prep
+
+Identifying Objects
+
+Creative
+Iterative
+Different ways to help identify objects
+Grammatical analysis
+Paragraph written before you start coding can help identify what methods/fields might be needed
+Identify tangible things in application domain
+
+CRC Card
+
+Class Responsibility Collaboration
+Brainstorming tool
+Identify classes and their interactions
+Identify Classes - responsibilities - collaborators - move cards
+
+Design Patterns
+
+Are descriptions of the problem and the essence of its solutions
+They describe will-tried solutions
+They capture experience in a way that makes it possible for others to reuse it
+They provide vocabulary
+3 categories
+Creational
+Structural
+Composite, Adapter
+Behavioral
+Iterator, observer, structural
+
+Database
+
+JDBC - Java Database Connectivity
+API used to 
+Connect to a datasource
+Update and query
+
+DBMS - DB management system - server mode - uses an outside service to store data
+RDBMS Relations DB management system - embedded mode - stores data within the code
+JavaDB
+Open source Apache Derby db
+Easy to use
+Small footprint
+Full feature set; fully transactional
+Provides standard SQL interface and JDBC compliant driver
+JavaDB - how it works
+Uses try with resources because its autocloseable
+Create connection object to connect to the database
+Create a statement object to query/update the database
+Use the resultSet object to process data
+
+Stack/Queue
+
+Stack
+LIFO
+Push
+Pop
+Peek
+Often used to reverse a list of elements
+Queue
+FIFO
+Enqueue
+Dequeue
+Peek
+
+Generics
+
+Understand type parameters
+Avoid raw types
+Know how to declare and instantiate object of a generic class
+Know how to implement a generic interface
+Iterable interface
+Comparable interface
+
+Linked Structures
+
+List
+Queue
+Uses Nodes
+Data
+Next element
+
+Iterator
+
+What methods are needed when implementing this interface
+hasnext()
+next()
+
+
+
+
+
+
